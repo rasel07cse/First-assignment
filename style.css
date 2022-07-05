@@ -1,0 +1,39 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.heading {
+    font-weight: 700;
+    font-size: 65px;
+    margin-left: 23%;
+    margin-right: 23%;
+    margin-top: 55px;
+}
+
+.topbann {
+    text-align: center;
+}
+
+.lom {
+    margin-left: 30%;
+    margin-right: 30%;
+    font-weight: 400;
+}
+
+.dbtn {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 35px;
+    border-radius: 6px;
+    color: white;
+}
+
+.topsec {
+    color: white;
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+}
