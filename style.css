@@ -148,9 +148,12 @@ footer {
 
 .fhead {
     color: #FF5959;
-    ont-family: 'Inter', sans-serif;
     font-family: 'Lobster', cursive;
-    font-family: 'Poppins', sans-serif;
+    font-size: 38px;
+}
+
+small {
+    color: #D9DBE1;
 }
 
 .wcn {
