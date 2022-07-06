@@ -9,6 +9,7 @@ body {
     margin-left: 23%;
     margin-right: 23%;
     margin-top: 55px;
+    text-align: center;
 }
 
 .topbann {
@@ -19,12 +20,13 @@ body {
     margin-left: 30%;
     margin-right: 30%;
     font-weight: 400;
+    text-align: center;
 }
 
 .dbtn {
     text-decoration: none;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 24px;
     background-image: linear-gradient(red, tomato);
     padding: 10px 35px;
     border-radius: 6px;
@@ -36,4 +38,59 @@ body {
     background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
     height: 600px;
+}
+
+.slom {
+    margin-bottom: 80px;
+}
+
+.damnt {
+    text-align: center;
+    color: #707070;
+    margin-bottom: 90px;
+}
+
+.amnt {
+    padding: 26px 12px;
+    background-color: #f1e7e7;
+    margin: 5px;
+    font-weight: 700;
+    font-size: 32px;
+    border-radius: 5px;
+}
+
+.slt {
+    color: tomato;
+    border: 1px solid tomato;
+    background-color: rgb(255, 217, 209);
+}
+
+.ins {
+    text-align: center;
+}
+
+.inb {
+    color: #b8b3b3;
+    font-size: 16px;
+    height: 25px;
+    width: 670px;
+    text-align: center;
+    border: none;
+    border-bottom: 1px solid gray;
+    padding: 4px;
+}
+
+.sbt {
+    text-align: center;
+    margin-top: 22px;
+}
+
+.sbtn {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 22px;
+    background-color: tomato;
+    padding: 8px 35px;
+    border-radius: 6px;
+    color: white;
 }
